@@ -1,1 +1,2 @@
-* This will be a space for plugin based test automation framework
+= Sponte
+This is a space for plugin based test automation framework
